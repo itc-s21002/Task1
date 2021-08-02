@@ -1,12 +1,12 @@
-##２回目のGithub
+## ２回目のGithub
 
 k-iha
 伊波京汰
 
-##ローカルリポジトリ
+## ローカルリポジトリ
 ・たこ焼きのレシピ
 [takoyaki.txt](takoyaki.txt)
 
-##リモートリポジトリ
-・[README.md](README.md)
+## リモートリポジトリ
+・[README.md](README.md)  
 ・マークダウンを覚える
