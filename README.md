@@ -5,7 +5,7 @@ k-iha
 
 ##ローカルリポジトリ
 ・たこ焼きのレシピ
-[takoyaki.txt][takoyaki.txt]
+(takoyaki.txt)(takoyaki.txt)
 
 ##リモートリポジトリ
 ・[README.md][README.md]
